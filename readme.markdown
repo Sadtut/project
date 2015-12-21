@@ -1,5 +1,5 @@
-IT'S read me file to give newcomers a quick view on how to  (a tuts+ premium course)
-deal with Git
+# Git Essintal  (a tuts+ premium course)
+IT'S read me file to give newcomers a quick view on how to deal with Git
 
 let us begin
 
